@@ -97,9 +97,7 @@ section{
                 0 0 35px var(--main-color),
                 0 0 45px var(--main-color);
 }
-.home-content p{
-    font-size: 9rem;
-}
+
 @keyframes floatImg {
     0%{
         transform: translateY(0);
