@@ -1,7 +1,8 @@
 # 📌 Portfolio  
 
 Welcome to my **Portfolio Repository**! 🚀 This project showcases my **skills, projects, and contact details**, built with **React.js** to create an interactive and responsive user experience.  
-![image](https://github.com/user-attachments/assets/69124e81-8c8e-45a3-9a81-fca4eba4ae6b)
+![image](https://github.com/user-attachments/assets/8b780a82-ff8f-4462-a7db-e3912dfbcff1)
+
 
 
 ## 🌟 Features  
