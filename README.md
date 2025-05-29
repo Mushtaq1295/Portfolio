@@ -18,7 +18,7 @@ Welcome to my **Portfolio Repository**! 🚀 This project showcases my **skills,
 
 
 ## 🚀 Live Demo  
-🔗 portfolio-dusky-ten-60.vercel.app  
+🔗 [portfolio-dusky-ten-60.vercel.app ](https://portfolio-one-delta-90.vercel.app/) 
 
 ## 🛠️ Installation & Setup  
 1️⃣ Clone the repository:  
